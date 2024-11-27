@@ -20,6 +20,16 @@ Pokracovanie prveho odseku.
 
 Dalsi odsek.
 
+> Toto je blok.  
+> Aj toto je blok.
 
+> Nakupny zoznam
+> * prva polozka
+> - druha polozka
+> - tretia polozka
+
+1. polozka
+2. polozka
+3. polozka 
 
 
