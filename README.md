@@ -16,7 +16,7 @@ Podnadpis
 ### Nadpis H3 - Nadpis tretej urovne
 
 **Toto** je _prvy_ odsek.  
-Pokracovanie prveh odseku.
+Pokracovanie prveho odseku.
 
 Dalsi odsek.
 
