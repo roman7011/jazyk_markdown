@@ -1,5 +1,9 @@
-# jazyk_markdown
-Trening jazyka Markdown
+Nadpis
+======
+
+Podnadpis
+---------
+
 
 # Nadpis H1 - Nadpis najvyssej urovne - hlavny nadpis
 
@@ -10,5 +14,12 @@ Trening jazyka Markdown
 ## Nadpis H2 - Nadpis druhej urovne - podnadpis
 
 ### Nadpis H3 - Nadpis tretej urovne
+
+**Toto** je _prvy_ odsek.  
+Pokracovanie prveh odseku.
+
+Dalsi odsek.
+
+
 
 
